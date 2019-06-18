@@ -1,3 +1,4 @@
+const port = process.env.PORT || 8000;
 const express = require('express');
 const app = express();
 const mongoose = require('mongoose');
@@ -47,6 +48,6 @@ if (process.env.NODE_ENV === 'production') {
     });
     console.log('Serving React App...');
 }
-const port = process.env.PORT || 8000;
+
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
