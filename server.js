@@ -1,4 +1,3 @@
-const port = process.env.PORT || 8000;
 const express = require('express');
 const app = express();
 const mongoose = require('mongoose');
@@ -38,14 +37,15 @@ app.use('/login', login);
 app.use('/register', register);
 app.use('/edit', edit);
 
+// Server static assets if in production
+if (process.env.NODE_ENV === 'production') {
+    // Set static folder
+    app.use(express.static('react/build'));
 
-// Set static folder
-app.use(express.static(path.join(__dirname, "client", "build")));
+    app.get('*', (req, res) => {
+        res.sendFile(path.resolve(__dirname, 'react', 'build', 'index.html'));
+    });
+}
+const port = process.env.PORT || 5000;
 
-app.get("*", (req, res) => {
-    res.sendFile(path.join(__dirname, "client", "build", "index.html"));
-});
-console.log('Serving React App...');
-
-
-app.listen(port, () => console.log(`Example app listening on port ${port}!`));
+app.listen(port, () => console.log(`app listening on port ${port}!`));
