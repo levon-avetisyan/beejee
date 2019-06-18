@@ -30,7 +30,7 @@ const login = require('./routes/login');
 const register = require('./routes/register');
 
 // Use Routes
-// app.use('/', tasks);
+app.use('/', tasks);
 app.use('/tasks', tasks);
 app.use('/create', tasks);
 app.use('/login', login);
