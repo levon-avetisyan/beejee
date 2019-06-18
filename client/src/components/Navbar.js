@@ -27,6 +27,9 @@ class Navbar extends Component {
                 <div className="collapse navbar-collapse pr-lg-3" id="navbarNav">
                     <ul className="navbar-nav">
                         <li className="nav-item">
+                            <Link to="/dayside" className="nav-link">Dayside Viewer</Link>
+                        </li>
+                        <li className="nav-item">
                             <Link to="/tasks" className="nav-link">Tasks</Link>
                         </li>
                         <li className="nav-item">
