@@ -1,7 +1,360 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="882e57cc-d4ae-4388-9a77-996df5fa8cc2" name="Default Changelist" comment="" />
+    <list default="true" id="882e57cc-d4ae-4388-9a77-996df5fa8cc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/build.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/dayside.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/dayside.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jquery.ui.plupload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree.storage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/application.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/code.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/css.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/db.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/directory.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/doc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/file.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/film.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/flash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/folder_open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/java.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/linux.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/music.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/pdf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/php.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/picture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/ppt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/project.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/psd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/ruby.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/script.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/spinner.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/txt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/xls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/icons/zip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/jquery.cookie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/jquery.hotkeys.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/jquery.jstree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/apple/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/apple/d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/apple/dot_for_ie.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/apple/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/apple/throbber.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/classic/d.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/classic/d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/classic/dot_for_ie.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/classic/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/classic/throbber.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/default-rtl/d.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/default-rtl/d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/default-rtl/dots.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/default-rtl/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/default-rtl/throbber.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/default/d-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/default/d.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/default/d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/default/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/jstree/themes/default/throbber.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/bundleInfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/nls.metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/base/worker/workerMain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/base/worker/workerMain.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/bat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/coffee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/cpp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/csharp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/dockerfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/fsharp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/go.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/handlebars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/ini.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/jade.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/java.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/less.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/lua.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/markdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/objective-c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/php.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/postiats.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/powershell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/python.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/r.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/razor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/ruby.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/scss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/sql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/swift.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/vb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/xml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/yaml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/editor/contrib/quickOpen/browser/symbol-sprite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/editor/contrib/suggest/browser/String_16x.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/editor/contrib/suggest/browser/String_inverse_16x.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.zh-tw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/language/css/cssMode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/language/css/cssWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/language/html/htmlMode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/language/html/htmlWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/language/json/jsonMode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/language/json/jsonWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/language/typescript/lib/typescriptServices.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/language/typescript/src/mode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/language/typescript/src/worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/dev/vs/loader.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/base/worker/workerMain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/bat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/coffee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/cpp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/csharp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/dockerfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/fsharp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/go.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/handlebars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/ini.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/jade.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/java.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/less.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/lua.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/markdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/objective-c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/php.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/postiats.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/powershell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/python.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/r.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/razor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/ruby.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/scss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/sql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/swift.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/vb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/xml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/basic-languages/src/yaml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/editor/contrib/quickOpen/browser/symbol-sprite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/editor/contrib/suggest/browser/String_16x.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/editor/contrib/suggest/browser/String_inverse_16x.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/editor/editor.main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/editor/editor.main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.zh-tw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/language/css/cssMode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/language/css/cssWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/language/html/htmlMode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/language/html/htmlWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/language/json/jsonMode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/language/json/jsonWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/language/typescript/lib/typescriptServices.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/language/typescript/src/mode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/language/typescript/src/worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/monaco/min/vs/loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/plupload.full.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/require.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/require.proxy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/theme/background.tea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/lib/theme/dark_ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/makefile.tea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/src/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/src/controls/codeTab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/src/controls/editorPanel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/src/controls/filePanel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/src/controls/optionsButton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/src/controls/searchDialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/src/controls/uploadDialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/src/fileApi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/client/src/style.tea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/auth_candy/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/auth_candy/auth_candy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/auth_candy/demo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/auth_candy/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/branch_remover/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/branch_remover/branch_remover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/branch_remover/demo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/branch_remover/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/collaborate/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/collaborate/collaborate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/collaborate/demo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/collaborate/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/collaborate/lib/FirebaseToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/collaborate/lib/JWT.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/collaborate/lib/RTCMultiConnection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/collaborate/lib/addon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/collaborate/lib/firepad.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/collaborate/lib/firepad_original.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/collaborate/lib/meeting.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/collaborate/makefile.tea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/collaborate_light/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/collaborate_light/collaborate_light.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/collaborate_light/demo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/collaborate_light/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/collaborate_light/lib/JWT.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/console/console.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/console/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/console/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/git_commit/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/git_commit/git_commit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/git_commit/git_commit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/git_commit/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/git_commit/lib/controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/git_commit/lib/git.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/git_commit/lib/template.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/node_runner/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/node_runner/node_runner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/node_runner/nodeapp/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/node_runner/nodeapp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/demo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/php_client_autocomplete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/src/client_server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/src/hvy/nodes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/src/hvy/treeBuilder.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/src/hvy/treeBuilderV2.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/src/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/src/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/src/parseWorker.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/src/plugin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/src/providers/definition.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/src/providers/documentSymbol.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/src/providers/workspaceSymbol.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/src/suggestionBuilder.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/src/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/src/util/Debug.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/src/util/Files.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/src/util/Storage.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/php_client_autocomplete/src/util/namespaces.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/pixlr/Untitled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/pixlr/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/pixlr/pixlr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/pixlr/test.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/realtime/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/realtime/realtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/realtime/server/SocketServer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/ExceptionInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/InvalidArgumentException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/LogicException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/ProcessFailedException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/ProcessTimedOutException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/RuntimeException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/realtime/server/Symfony/Component/Process/ExecutableFinder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/realtime/server/Symfony/Component/Process/PhpExecutableFinder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/realtime/server/Symfony/Component/Process/PhpProcess.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/realtime/server/Symfony/Component/Process/Process.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/realtime/server/Symfony/Component/Process/ProcessBuilder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/realtime/server/Symfony/Component/Process/ProcessPipes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/realtime/server/Symfony/Component/Process/ProcessUtils.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/realtime/server/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/realtime/server/server.pid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/tracker/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/tracker/tracker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/video_chat/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/plugins/video_chat/video_chat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/index.tea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/jupload/jupload.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/images/colorpicker_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/images/colorpicker_hex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/images/colorpicker_hsb_b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/images/colorpicker_hsb_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/images/colorpicker_hsb_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/images/colorpicker_indic.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/images/colorpicker_overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/images/colorpicker_rgb_a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/images/colorpicker_rgb_b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/images/colorpicker_rgb_g.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/images/colorpicker_rgb_r.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/images/colorpicker_select.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/images/colorpicker_submit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/images/teacss_ui_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/teacss-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/teacss-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/teacss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/assets/teacss/teacss.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/build.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/demo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/lib/Daemon.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/server/lib/Daemon_fork.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/todo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/dayside/todo_menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/precache-manifest.aec140798a822a0ed3527eb02f461c29.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/static/css/main.c16f4a8d.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/static/css/main.c16f4a8d.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/static/js/2.c8e58e13.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/static/js/2.c8e58e13.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/static/js/main.970d5493.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/static/js/main.970d5493.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/static/js/runtime~main.a8a9905a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/build/static/js/runtime~main.a8a9905a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/actions/authActions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/actions/taskActions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/actions/types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/components/CreateTask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/components/Login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/components/Navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/components/Task.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/components/Tasks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/components/common/PrivateRoute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/reducers/authReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/reducers/errorReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/reducers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/reducers/taskReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/utils/setAuthToken.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,11 +371,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="Procfile" value="1" />
           <entry key="css" value="9" />
-          <entry key="gitignore" value="5" />
+          <entry key="gitignore" value="6" />
           <entry key="html" value="3" />
-          <entry key="js" value="253" />
-          <entry key="json" value="15" />
+          <entry key="js" value="259" />
+          <entry key="json" value="18" />
           <entry key="php" value="1" />
           <entry key="ts" value="1" />
         </counts>
@@ -31,10 +385,10 @@
         <counts>
           <entry key="CSS" value="9" />
           <entry key="HTML" value="3" />
-          <entry key="JSON" value="15" />
-          <entry key="JavaScript" value="253" />
+          <entry key="JSON" value="18" />
+          <entry key="JavaScript" value="259" />
           <entry key="PHP" value="1" />
-          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="PLAIN_TEXT" value="7" />
           <entry key="TypeScript" value="1" />
         </counts>
       </usages-collector>
@@ -43,16 +397,16 @@
           <entry key="css" value="33" />
           <entry key="gitignore" value="70" />
           <entry key="html" value="36" />
-          <entry key="js" value="11351" />
-          <entry key="json" value="272" />
+          <entry key="js" value="11352" />
+          <entry key="json" value="273" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="33" />
           <entry key="HTML" value="36" />
-          <entry key="JSON" value="272" />
-          <entry key="JavaScript" value="11351" />
+          <entry key="JSON" value="273" />
+          <entry key="JavaScript" value="11352" />
           <entry key="PLAIN_TEXT" value="70" />
         </counts>
       </usages-collector>
@@ -66,10 +420,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/keys_prod.js">
+        <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="42" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="42" />
+            <state relative-caret-position="420">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -77,71 +440,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/server.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="42" column="43" lean-forward="true" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/keys.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/keys_dev.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/build/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="162" selection-start-column="162" selection-end-column="162" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/public/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <state relative-caret-position="360">
+              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -166,6 +466,7 @@
       <find>if (task === null || Object.keys(task).length === 0) {</find>
       <find>pass</find>
       <find>path</find>
+      <find>send</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -219,9 +520,10 @@
         <option value="$PROJECT_DIR$/config/keys.js" />
         <option value="$PROJECT_DIR$/client/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/client/package.json" />
-        <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/client/package.json" />
+        <option value="$PROJECT_DIR$/client/Procfile" />
       </list>
     </option>
   </component>
@@ -249,7 +551,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1057" />
@@ -270,6 +572,11 @@
               <item name="beejee" type="b2602c69:ProjectViewProjectNode" />
               <item name="beejee" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="beejee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beejee" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -287,6 +594,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Desktop\beejee\client" />
+      <recent name="C:\Users\hp\Desktop\beejee\react" />
       <recent name="C:\Users\hp\Desktop\beejee\client\build" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -316,18 +625,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560614564746</updated>
-      <workItem from="1560614566885" duration="91587000" />
+      <workItem from="1560614566885" duration="92648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91587000" />
+    <option name="totallyTimeSpent" value="92648000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-7" y="0" width="974" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1401919" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28774616" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -341,7 +650,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32914045" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34285715" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.13800205" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -484,20 +793,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/register.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/users.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/reducers/taskReducer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -512,16 +807,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/tasks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-          <folding>
-            <element signature="e#757#1136#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/reducers/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -529,13 +814,6 @@
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/edit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
@@ -560,13 +838,6 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="44" column="43" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -701,17 +972,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/keys_prod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/build/dayside/plugins/realtime/server/SocketServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="803" column="46" selection-start-line="803" selection-start-column="46" selection-end-line="803" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/tasks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/edit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/keys_prod.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -729,31 +1057,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/build/dayside/plugins/realtime/server/SocketServer.php">
+    <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="803" column="46" selection-start-line="803" selection-start-column="46" selection-end-line="803" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        <state relative-caret-position="420">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="360">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
+    <entry file="file://$PROJECT_DIR$/client/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="42" column="43" lean-forward="true" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
