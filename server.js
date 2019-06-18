@@ -6,7 +6,10 @@ const passport = require('passport');
 const path = require('path');
 
 app.use('/', express.static(path.join(__dirname, 'client/build')));
-app.use('/dayside', express.static(path.join(__dirname, 'client/build')));
+app.use('/dayside', express.static(path.join(__dirname, 'client/build/dayside')));
+app.get('/dayside', (req, res) => {
+    res.sendFile(path.join(__dirname, './client/build/dayside/index.php'));
+});
 
 // Body parser middleware
 app.use(bodyParser.urlencoded({extended: false}));
