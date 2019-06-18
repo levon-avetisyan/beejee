@@ -1,34 +1,33 @@
 {
-  "name": "devconnector",
+  "name": "beejee",
   "version": "1.0.0",
-  "description": "Social network for developers",
+  "description": "",
   "main": "server.js",
-  "engines": {
-    "node": "10.14.1"
-  },
   "scripts": {
-    "client-install": "npm install --prefix client",
+    "client-install": "cd client && npm start",
     "start": "node server.js",
     "server": "nodemon server.js",
-    "client": "npm start --prefix client",
+    "client": "cd client && npm start",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
-  "author": "Brad Traversy",
-  "license": "MIT",
+  "author": "Levon Avetisyan",
+  "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "body-parser": "^1.18.2",
-    "concurrently": "^3.5.1",
-    "express": "^4.16.3",
-    "gravatar": "^1.6.0",
-    "jsonwebtoken": "^8.2.0",
-    "mongoose": "^5.0.12",
+    "body-parser": "^1.19.0",
+    "concurrently": "^4.1.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^2.2.0",
+    "lodash.isempty": "^4.4.0",
+    "mongoose": "^5.6.0",
     "passport": "^0.4.0",
-    "passport-jwt": "^4.0.0",
-    "validator": "^9.4.1"
+    "path": "^0.12.7",
+    "validator": "^11.0.0"
   },
   "devDependencies": {
-    "nodemon": "^1.17.3"
+    "nodemon": "^1.19.1",
+    "passport-jwt": "^4.0.0"
   }
 }
