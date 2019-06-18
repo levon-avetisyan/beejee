@@ -47,6 +47,6 @@ if (process.env.NODE_ENV === 'production') {
     });
     console.log('Serving React App...');
 }
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 8000;
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
