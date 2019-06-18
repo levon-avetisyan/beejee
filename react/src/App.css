@@ -1,0 +1,167 @@
+html {
+    height: 100%;
+}
+
+body {
+    position: relative;
+    min-height: 100%;
+}
+
+main {
+    position: relative;
+    padding-bottom: 40px;
+    padding-top: 50px;
+}
+
+i.fas.fa-edit {
+    cursor: pointer;
+}
+
+nav.navbar {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-color: white;
+    -webkit-transition: all 1s ease;
+    transition: all 1s ease;
+    padding-left: 0;
+    padding-right: 0;
+    -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    z-index: 999;
+}
+
+nav.navbar .navbar-toggler .toggle {
+    width: 30px;
+    height: 30px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    z-index: 10;
+}
+
+nav.navbar .navbar-toggler .toggle .bar {
+    position: relative;
+    width: 22px;
+    height: 2px;
+    background: #474749;
+}
+
+nav.navbar .navbar-toggler .toggle .bar:before, nav.navbar .navbar-toggler .toggle .bar:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: inherit;
+    left: 0;
+    -webkit-transform-origin: center center;
+    transform-origin: center center;
+    -webkit-transition: top .25s ease, bottom .25s ease, -webkit-transform .25s ease;
+    transition: top .25s ease, bottom .25s ease, -webkit-transform .25s ease;
+    transition: transform .25s ease, top .25s ease, bottom .25s ease;
+    transition: transform .25s ease, top .25s ease, bottom .25s ease, -webkit-transform .25s ease;
+}
+
+nav.navbar .navbar-toggler .toggle .bar:before {
+    top: -8px;
+}
+
+nav.navbar .navbar-toggler .toggle .bar:after {
+    bottom: -8px;
+}
+
+nav.navbar .navbar-toggler .toggle.clicked .bar {
+    background: transparent;
+}
+
+nav.navbar .navbar-toggler .toggle.clicked .bar:before, nav.navbar .navbar-toggler .toggle.clicked .bar:after {
+    background: #000;
+}
+
+nav.navbar .navbar-toggler .toggle.clicked .bar:before {
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+    top: 0;
+}
+
+nav.navbar .navbar-toggler .toggle.clicked .bar:after {
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    bottom: 0;
+}
+
+nav.navbar a.navbar-brand {
+    width: 80px;
+    margin: 0;
+    padding: 0;
+    -webkit-transition: all 1s ease;
+    transition: all 1s ease;
+    cursor: pointer;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+nav.navbar a.navbar-brand img {
+    width: 100%;
+}
+
+nav.navbar .navbar-collapse {
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+}
+
+nav.navbar .navbar-collapse ul li + li {
+    margin-left: 10px;
+}
+
+nav.navbar .navbar-collapse ul li.active a.nav-link {
+    color: #C0B283;
+}
+
+nav.navbar .navbar-collapse ul li a.nav-link {
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 600;
+    color: #171a1d;
+    -webkit-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+}
+
+nav.navbar .navbar-collapse ul li a.nav-link.active {
+    color: #C0B283;
+}
+
+nav.navbar .navbar-collapse ul li a.nav-link:hover {
+    color: #686221;
+}
+
+nav.navbar .navbar-collapse.collapsing, nav.navbar .navbar-collapse.show {
+    background-color: white;
+}
+
+nav.navbar .navbar-collapse.collapsing ul li, nav.navbar .navbar-collapse.show ul li {
+    margin: 0;
+    text-align: center;
+}
+
+nav.navbar .navbar-collapse.collapsing ul li a.nav-link, nav.navbar .navbar-collapse.show ul li a.nav-link {
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+nav.navbar .navbar-collapse.collapsing ul li a.nav-link.page-link, nav.navbar .navbar-collapse.show ul li a.nav-link.page-link {
+    max-width: 120px;
+    margin: 0 auto;
+}
