@@ -14,6 +14,7 @@
   "author": "Levon Avetisyan",
   "license": "ISC",
   "dependencies": {
+    "passport-jwt": "^4.0.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
     "concurrently": "^4.1.0",
@@ -28,6 +29,5 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.1",
-    "passport-jwt": "^4.0.0"
   }
 }
