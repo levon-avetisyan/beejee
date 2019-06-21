@@ -6,21 +6,7 @@ const passport = require('passport');
 const path = require('path');
 const port = process.env.PORT || 5000;
 
-// Server static assets if in production
-if (process.env.NODE_ENV === 'production') {
-    // Set static folder
-    app.use('/',express.static('client/build'));
 
-    app.get('*', (req, res) => {
-        res.sendFile(path.resolve(__dirname, 'client', 'build', 'index.html'));
-    });
-
-    app.use('/dayside', express.static(path.join(__dirname, 'client/build/dayside')));
-
-    app.get('/dayside', (req, res) => {
-        res.sendFile(path.resolve(__dirname, 'client', 'build', 'dayside', 'index.php'));
-    });
-}
 
 // Body parser middleware
 app.use(bodyParser.urlencoded({extended: false}));
@@ -53,5 +39,21 @@ app.use('/create', tasks);
 app.use('/login', login);
 app.use('/register', register);
 app.use('/edit', edit);
+
+// Server static assets if in production
+if (process.env.NODE_ENV === 'production') {
+    // Set static folder
+    app.use('/',express.static('client/build'));
+
+    app.get('*', (req, res) => {
+        res.sendFile(path.resolve(__dirname, 'client', 'build', 'index.html'));
+    });
+
+    app.use('/dayside', express.static(path.join(__dirname, 'client/build/dayside')));
+
+    app.get('/dayside', (req, res) => {
+        res.sendFile(path.resolve(__dirname, 'client', 'build', 'dayside', 'index.php'));
+    });
+}
 
 app.listen(port, () => console.log(`app listening on port ${port}!`));

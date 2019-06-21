@@ -24,6 +24,7 @@ class Tasks extends Component {
                     tasks: res.data,
                     loading: false
                 });
+                console.log(this.state)
             })
             .catch(err => console.log(err))
     }
