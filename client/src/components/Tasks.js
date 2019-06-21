@@ -14,6 +14,7 @@ class Tasks extends Component {
             tasks: [],
             loading: true
         };
+        this.renderTasks = this.renderTasks.bind(this);
     }
 
     componentDidMount() {
@@ -23,14 +24,32 @@ class Tasks extends Component {
                     tasks: res.data,
                     loading: false
                 });
-                console.log(this.state.tasks)
             })
             .catch(err => console.log(err))
     }
 
-    render() {
-        const {isAuthenticated, user} = this.props.auth;
+    renderTasks() {
+        const {isAuthenticated} = this.props.auth;
+        return this.state.tasks.map(task => {
+            return (
+                <div key={task._id} className="list-group-item list-group-item-action">
+                    <div className="d-flex w-100 justify-content-between">
+                        <h5 className="mb-1 pr-3">{task.username}</h5>
+                        <small>{task.email}</small>
+                    </div>
+                    <p className="mb-1">{task.text}</p>
+                    <span className="d-block text-right mt-3">
+                        {isAuthenticated ?
+                            <Link to={`/edit/${task._id}`}>
+                                <i className="fas fa-edit"></i>
+                            </Link> : ''}
+                    </span>
+                </div>
+            );
+        })
+    }
 
+    render() {
         const {tasks, loading} = this.state;
 
         let taskItems;
@@ -38,25 +57,7 @@ class Tasks extends Component {
         if (tasks === null || loading) {
             taskItems = <Spinner/>
         } else {
-            if (tasks.length > 0) {
-                taskItems = tasks.map(task =>
-                    <div key={task._id} className="list-group-item list-group-item-action">
-                        <div className="d-flex w-100 justify-content-between">
-                            <h5 className="mb-1 pr-3">{task.username}</h5>
-                            <small>{task.email}</small>
-                        </div>
-                        <p className="mb-1">{task.text}</p>
-                        <span className="d-block text-right mt-3">
-                            {isAuthenticated ?
-                                <Link to={`/edit/${task._id}`}>
-                                    <i className="fas fa-edit"></i>
-                                </Link> : ''}
-                        </span>
-                    </div>
-                )
-            } else {
-                taskItems = <Spinner/>
-            }
+            taskItems = this.renderTasks();
         }
         return (
             <div>
