@@ -47,7 +47,7 @@ function App() {
             <Router>
                 <main className="App">
                     <Navbar/>
-                    <Redirect from='/' to='/tasks'/>
+                    <Route exact path="/" component={Tasks}/>
                     <Route exact path="/tasks" component={Tasks}/>
                     <Route exact path="/login" component={Login}/>
                     <Route exact path="/create" component={CreateTask}/>
