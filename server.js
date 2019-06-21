@@ -6,7 +6,7 @@ const passport = require('passport');
 const path = require('path');
 const port = process.env.PORT || 5000;
 
-
+app.use('/', express.static(path.join(__dirname, 'client/build')));
 
 // Body parser middleware
 app.use(bodyParser.urlencoded({extended: false}));
@@ -26,7 +26,6 @@ app.use(passport.initialize());
 
 // Passport Config
 require('./config/passport')(passport);
-
 const edit = require('./routes/edit');
 const tasks = require('./routes/tasks');
 const login = require('./routes/login');
