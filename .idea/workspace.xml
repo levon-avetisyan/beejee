@@ -3,328 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="882e57cc-d4ae-4388-9a77-996df5fa8cc2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/build.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/dayside.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/dayside.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jquery.ui.plupload.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree.storage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/application.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/code.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/css.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/db.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/directory.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/doc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/file.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/film.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/flash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/folder_open.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/html.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/linux.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/music.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/pdf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/php.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/picture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/ppt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/project.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/psd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/ruby.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/script.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/spinner.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/txt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/xls.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/icons/zip.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/jquery.cookie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/jquery.hotkeys.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/jquery.jstree.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/apple/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/apple/d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/apple/dot_for_ie.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/apple/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/apple/throbber.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/classic/d.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/classic/d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/classic/dot_for_ie.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/classic/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/classic/throbber.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/default-rtl/d.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/default-rtl/d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/default-rtl/dots.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/default-rtl/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/default-rtl/throbber.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/default/d-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/default/d.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/default/d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/default/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/jstree/themes/default/throbber.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/bundleInfo.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/nls.metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/base/worker/workerMain.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/base/worker/workerMain.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/bat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/coffee.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/cpp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/csharp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/css.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/dockerfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/fsharp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/go.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/handlebars.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/html.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/ini.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/jade.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/java.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/less.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/lua.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/markdown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/objective-c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/php.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/postiats.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/powershell.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/python.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/r.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/razor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/ruby.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/scss.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/sql.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/swift.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/vb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/xml.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/basic-languages/src/yaml.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/editor/contrib/quickOpen/browser/symbol-sprite.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/editor/contrib/suggest/browser/String_16x.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/editor/contrib/suggest/browser/String_inverse_16x.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.fr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.it.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.ja.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.ko.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.ru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.zh-cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/editor/editor.main.nls.zh-tw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/language/css/cssMode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/language/css/cssWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/language/html/htmlMode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/language/html/htmlWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/language/json/jsonMode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/language/json/jsonWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/language/typescript/lib/typescriptServices.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/language/typescript/src/mode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/language/typescript/src/worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/loader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/dev/vs/loader.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/base/worker/workerMain.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/bat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/coffee.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/cpp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/csharp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/css.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/dockerfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/fsharp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/go.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/handlebars.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/html.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/ini.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/jade.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/java.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/less.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/lua.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/markdown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/objective-c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/php.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/postiats.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/powershell.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/python.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/r.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/razor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/ruby.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/scss.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/sql.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/swift.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/vb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/xml.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/basic-languages/src/yaml.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/editor/contrib/quickOpen/browser/symbol-sprite.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/editor/contrib/suggest/browser/String_16x.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/editor/contrib/suggest/browser/String_inverse_16x.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/editor/editor.main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/editor/editor.main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.fr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.it.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.ja.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.ko.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.ru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.zh-cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/editor/editor.main.nls.zh-tw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/language/css/cssMode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/language/css/cssWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/language/html/htmlMode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/language/html/htmlWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/language/json/jsonMode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/language/json/jsonWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/language/typescript/lib/typescriptServices.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/language/typescript/src/mode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/language/typescript/src/worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/monaco/min/vs/loader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/plupload.full.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/require.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/require.proxy.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/theme/background.tea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/lib/theme/dark_ui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/makefile.tea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/src/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/src/controls/codeTab.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/src/controls/editorPanel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/src/controls/filePanel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/src/controls/optionsButton.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/src/controls/searchDialog.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/src/controls/uploadDialog.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/src/fileApi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/client/src/style.tea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/auth_candy/api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/auth_candy/auth_candy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/auth_candy/demo.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/auth_candy/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/branch_remover/api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/branch_remover/branch_remover.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/branch_remover/demo.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/branch_remover/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/collaborate/api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/collaborate/collaborate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/collaborate/demo.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/collaborate/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/collaborate/lib/FirebaseToken.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/collaborate/lib/JWT.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/collaborate/lib/RTCMultiConnection.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/collaborate/lib/addon.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/collaborate/lib/firepad.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/collaborate/lib/firepad_original.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/collaborate/lib/meeting.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/collaborate/makefile.tea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/collaborate_light/api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/collaborate_light/collaborate_light.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/collaborate_light/demo.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/collaborate_light/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/collaborate_light/lib/JWT.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/console/console.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/console/console.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/console/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/git_commit/api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/git_commit/git_commit.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/git_commit/git_commit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/git_commit/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/git_commit/lib/controller.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/git_commit/lib/git.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/git_commit/lib/template.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/node_runner/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/node_runner/node_runner.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/node_runner/nodeapp/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/node_runner/nodeapp/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/demo.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/php_client_autocomplete.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/src/client_server.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/src/hvy/nodes.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/src/hvy/treeBuilder.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/src/hvy/treeBuilderV2.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/src/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/src/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/src/parseWorker.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/src/plugin.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/src/providers/definition.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/src/providers/documentSymbol.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/src/providers/workspaceSymbol.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/src/suggestionBuilder.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/src/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/src/util/Debug.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/src/util/Files.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/src/util/Storage.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/php_client_autocomplete/src/util/namespaces.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/pixlr/Untitled.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/pixlr/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/pixlr/pixlr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/pixlr/test.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/realtime/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/realtime/realtime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/realtime/server/SocketServer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/ExceptionInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/InvalidArgumentException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/LogicException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/ProcessFailedException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/ProcessTimedOutException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/realtime/server/Symfony/Component/Process/Exception/RuntimeException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/realtime/server/Symfony/Component/Process/ExecutableFinder.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/realtime/server/Symfony/Component/Process/PhpExecutableFinder.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/realtime/server/Symfony/Component/Process/PhpProcess.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/realtime/server/Symfony/Component/Process/Process.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/realtime/server/Symfony/Component/Process/ProcessBuilder.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/realtime/server/Symfony/Component/Process/ProcessPipes.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/realtime/server/Symfony/Component/Process/ProcessUtils.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/realtime/server/server.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/realtime/server/server.pid" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/tracker/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/tracker/tracker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/video_chat/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/plugins/video_chat/video_chat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/index.tea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/jupload/jupload.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/images/colorpicker_background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/images/colorpicker_hex.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/images/colorpicker_hsb_b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/images/colorpicker_hsb_h.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/images/colorpicker_hsb_s.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/images/colorpicker_indic.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/images/colorpicker_overlay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/images/colorpicker_rgb_a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/images/colorpicker_rgb_b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/images/colorpicker_rgb_g.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/images/colorpicker_rgb_r.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/images/colorpicker_select.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/images/colorpicker_submit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/images/teacss_ui_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/images/ui-icons_222222_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/images/ui-icons_454545_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/images/ui-icons_888888_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/teacss-ui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/teacss-ui.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/teacss.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/assets/teacss/teacss.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/build.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/demo.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/lib/Daemon.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/server/lib/Daemon_fork.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/todo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/dayside/todo_menu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/precache-manifest.513126cfb0570245ac8ff84e89e83e8c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/service-worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/css/main.c16f4a8d.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/css/main.c16f4a8d.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/2.c8e58e13.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/2.c8e58e13.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/main.1fbb1817.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/main.1fbb1817.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/runtime~main.a8a9905a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/build/static/js/runtime~main.a8a9905a.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Tasks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/reducers/taskReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/reducers/taskReducer.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -350,7 +30,7 @@
           <entry key="css" value="9" />
           <entry key="gitignore" value="10" />
           <entry key="html" value="3" />
-          <entry key="js" value="262" />
+          <entry key="js" value="265" />
           <entry key="json" value="23" />
           <entry key="php" value="1" />
           <entry key="ts" value="1" />
@@ -361,7 +41,7 @@
           <entry key="CSS" value="9" />
           <entry key="HTML" value="3" />
           <entry key="JSON" value="23" />
-          <entry key="JavaScript" value="262" />
+          <entry key="JavaScript" value="265" />
           <entry key="PHP" value="1" />
           <entry key="PLAIN_TEXT" value="12" />
           <entry key="TypeScript" value="1" />
@@ -372,7 +52,7 @@
           <entry key="css" value="33" />
           <entry key="gitignore" value="79" />
           <entry key="html" value="36" />
-          <entry key="js" value="11408" />
+          <entry key="js" value="11711" />
           <entry key="json" value="287" />
         </counts>
       </usages-collector>
@@ -381,7 +61,7 @@
           <entry key="CSS" value="33" />
           <entry key="HTML" value="36" />
           <entry key="JSON" value="287" />
-          <entry key="JavaScript" value="11408" />
+          <entry key="JavaScript" value="11711" />
           <entry key="PLAIN_TEXT" value="79" />
         </counts>
       </usages-collector>
@@ -412,33 +92,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+            <state relative-caret-position="-460">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/tasks.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-              <folding>
-                <element signature="e#544#700#0" />
-                <element signature="e#757#1136#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/src/components/Tasks.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            <state relative-caret-position="240">
+              <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -446,8 +116,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+            <state relative-caret-position="320">
+              <caret line="47" column="38" lean-forward="true" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -508,7 +178,6 @@
         <option value="$PROJECT_DIR$/client/src/components/EditTask.js" />
         <option value="$PROJECT_DIR$/client/src/components/CreateTask.js" />
         <option value="$PROJECT_DIR$/routes/update.js" />
-        <option value="$PROJECT_DIR$/client/src/reducers/taskReducer.js" />
         <option value="$PROJECT_DIR$/client/src/actions/types.js" />
         <option value="$PROJECT_DIR$/client/src/reducers/errorReducer.js" />
         <option value="$PROJECT_DIR$/routes/task.js" />
@@ -528,9 +197,10 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/client/src/App.js" />
-        <option value="$PROJECT_DIR$/client/src/components/Tasks.js" />
         <option value="$PROJECT_DIR$/client/package.json" />
         <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/client/src/reducers/taskReducer.js" />
+        <option value="$PROJECT_DIR$/client/src/components/Tasks.js" />
       </list>
     </option>
   </component>
@@ -590,6 +260,33 @@
               <item name="client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="beejee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beejee" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="beejee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beejee" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="beejee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beejee" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="reducers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="beejee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beejee" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -642,18 +339,18 @@
       <workItem from="1560614566885" duration="95101000" />
       <workItem from="1560874571179" duration="1287000" />
       <workItem from="1561020026895" duration="1061000" />
-      <workItem from="1561117345107" duration="817000" />
+      <workItem from="1561117345107" duration="2214000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98266000" />
+    <option name="totallyTimeSpent" value="99663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14498934" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14498934" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -666,7 +363,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32914045" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.29183674" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.29183674" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
@@ -708,13 +405,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/src/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/routes/home.js" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/global-types/node_modules/@types/react/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -768,13 +458,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/update.js" />
-    <entry file="file://$PROJECT_DIR$/client/src/reducers/taskReducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/validation/task.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -970,31 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/tasks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="e#544#700#0" />
-            <element signature="e#757#1136#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/components/Tasks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
@@ -1002,10 +660,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="47" column="38" lean-forward="true" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/common/Spinner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/tasks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="e#757#1136#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        <state relative-caret-position="-460">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/reducers/taskReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/components/Tasks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

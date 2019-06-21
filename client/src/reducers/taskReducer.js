@@ -1,7 +1,7 @@
 import {GET_TASK, UPDATE_TASK} from '../actions/types';
 
 const initialState = {
-    task: null
+    task: null,
 };
 
 export default function (state = initialState, action) {
