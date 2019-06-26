@@ -6,8 +6,6 @@ const passport = require('passport');
 const path = require('path');
 const port = process.env.PORT || 5000;
 
-app.use('/', express.static(path.join(__dirname, 'client/build')));
-
 // Body parser middleware
 app.use(bodyParser.urlencoded({extended: false}));
 app.use(bodyParser.json());
@@ -33,7 +31,6 @@ const register = require('./routes/register');
 
 // Use Routes
 app.use('/', tasks);
-app.use('/tasks', tasks);
 app.use('/create', tasks);
 app.use('/login', login);
 app.use('/register', register);
@@ -46,12 +43,6 @@ if (process.env.NODE_ENV === 'production') {
 
     app.get('*', (req, res) => {
         res.sendFile(path.resolve(__dirname, 'client', 'build', 'index.html'));
-    });
-
-    app.use('/dayside', express.static(path.join(__dirname, 'client/build/dayside')));
-
-    app.get('/dayside', (req, res) => {
-        res.sendFile(path.resolve(__dirname, 'client', 'build', 'dayside', 'index.php'));
     });
 }
 

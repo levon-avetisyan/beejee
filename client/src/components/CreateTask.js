@@ -43,7 +43,6 @@ class CreateTask extends Component {
 
     render() {
         const {errors} = this.state;
-
         return (
                 <div className="container">
                     <div className="row pt-5">
@@ -87,7 +86,6 @@ class CreateTask extends Component {
                         </div>
                     </div>
                 </div>
-
         );
     }
 }

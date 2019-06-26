@@ -48,7 +48,6 @@ function App() {
                 <main className="App">
                     <Navbar/>
                     <Route exact path="/" component={Tasks}/>
-                    <Route exact path="/tasks" component={Tasks}/>
                     <Route exact path="/login" component={Login}/>
                     <Route exact path="/create" component={CreateTask}/>
                     <Switch>
