@@ -12,7 +12,6 @@ const validateTaskInput = require('../validation/task');
 // Get Tasks
 router.get('/', (req, res) => {
     Tasks.find()
-        .sort({date: -1})
         .then(tasks => res.json(tasks))
         .catch(err => res.status(404).json({msg: 'No posts found'}));
 });
@@ -20,7 +19,6 @@ router.get('/', (req, res) => {
 // Get Tasks
 router.get('/tasks', (req, res) => {
     Tasks.find()
-        .sort({date: -1})
         .then(tasks => res.json(tasks))
         .catch(err => res.status(404).json({msg: 'No posts found'}));
 });
@@ -43,6 +41,24 @@ router.post('/create', (req, res) => {
         .save()
         .then(task => res.json(task))
         .catch(err => res.json(errors));
+});
+
+// Update Task Status
+router.post('/update/status/:id', (req, res) => {
+    Tasks.findById({_id: req.params.id})
+        .then(task => {
+            if (!task) {
+                errors.notask = 'There is no task with this id';
+                res.status(404).json(errors);
+            } else {
+                task.status = req.body.status;
+                task.save()
+                    .then(res.json(task))
+                    .catch(err => {
+                        res.status(400).json(errors);
+                    });
+            }
+        })
 });
 
 module.exports = router;

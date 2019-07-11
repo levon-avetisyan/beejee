@@ -15,6 +15,11 @@ const TaskSchema = new Schema({
         type: String,
         required: true
     },
+    status: {
+        type: String,
+        default: 'to do',
+        required: true,
+    },
     date: {
         type: Date,
         default: Date.now

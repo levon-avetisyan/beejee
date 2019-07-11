@@ -12,7 +12,7 @@ class Navbar extends Component {
     }
 
     render() {
-        const {isAuthenticated, user} = this.props.auth;
+        const {isAuthenticated} = this.props.auth;
 
         return (
             <nav className="navbar navbar-expand-lg" id="siteNav">
@@ -34,8 +34,8 @@ class Navbar extends Component {
                         </li>
 
                         {isAuthenticated ? <li className="nav-item">
-                            <a className="nav-link page-link rounded"
-                               onClick={this.onLogoutClick.bind(this)}>Logout</a>
+                            <button className="nav-link page-link rounded"
+                               onClick={this.onLogoutClick.bind(this)}>Logout</button>
                         </li> : <li className="nav-item">
                             <Link to="/login" className="nav-link page-link rounded">Login</Link>
                         </li>}

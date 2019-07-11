@@ -15,7 +15,7 @@ import Login from './components/Login';
 import CreateTask from './components/CreateTask';
 import Task from './components/Task';
 
-import { logoutUser } from './actions/authActions';
+import {logoutUser} from './actions/authActions';
 
 import './App.css';
 
@@ -47,7 +47,7 @@ function App() {
             <Router>
                 <main className="App">
                     <Navbar/>
-                    <Route exact path="/" component={Tasks}/>
+                    <Route exact path={["/", "/update/status/:id", "/tasks"]} component={Tasks}/>
                     <Route exact path="/login" component={Login}/>
                     <Route exact path="/create" component={CreateTask}/>
                     <Switch>

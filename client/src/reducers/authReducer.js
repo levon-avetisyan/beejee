@@ -1,7 +1,6 @@
 import {
     TEST_DISPATCH,
     SET_CURRENT_USER,
-    GET_ERRORS
 } from '../actions/types';
 import isEmpty from 'lodash.isempty';
 

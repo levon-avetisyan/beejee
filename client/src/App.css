@@ -17,6 +17,21 @@ i.fas.fa-edit {
     cursor: pointer;
 }
 
+.pagination .page-item .page-link{
+    cursor: pointer;
+    color: #2a2d2e;
+}
+
+.pagination .page-item .page-link:focus{
+    outline: none;
+    box-shadow: none;
+    color: #198cc3;
+}
+
+.custom-control-label{
+    cursor: pointer;
+}
+
 nav.navbar {
     position: absolute;
     left: 0;
